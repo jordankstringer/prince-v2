@@ -1,0 +1,10 @@
+.column {
+  border: 2px dashed blue;
+  margin-top: 15px;
+  padding: 10px;
+  background-color: yellow;
+}
+
+.princepic {
+  padding: 20px;
+}
